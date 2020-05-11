@@ -1,8 +1,7 @@
 # DASCTF 征题 Docker 模板-Ubuntu14.04-Openssh-Normal
 ## 内含组件
-Ubuntu14.04
+- Ubuntu14.04
 - Openssh
-- Normal
 
 ## 使用方法
 1. 请在 https://github.com/DASCTF-Test/Pwn-Ubuntu14.04-Openssh-Normal-Test  基础上修改即可。
